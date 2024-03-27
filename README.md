@@ -17,8 +17,6 @@ Admin:
 
 
 
-![Screenshot 2024-03-15 at 5 42 54 PM](https://github.com/Navreen1711/InterviewPanelConsoleApplication/assets/147267931/ffadeb70-1f13-4a3e-9c19-22d5e7827266)
-
 
 Showing the list of candidates:
 
